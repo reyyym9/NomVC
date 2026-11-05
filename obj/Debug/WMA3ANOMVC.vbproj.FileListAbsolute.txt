@@ -1,0 +1,44 @@
+C:\Users\yoga0\source\repos\WMA3ANOMVC\WMA3ANOMVC\bin\Debug\WMA3ANOMVC.exe.config
+C:\Users\yoga0\source\repos\WMA3ANOMVC\WMA3ANOMVC\bin\Debug\WMA3ANOMVC.exe
+C:\Users\yoga0\source\repos\WMA3ANOMVC\WMA3ANOMVC\bin\Debug\WMA3ANOMVC.pdb
+C:\Users\yoga0\source\repos\WMA3ANOMVC\WMA3ANOMVC\bin\Debug\WMA3ANOMVC.xml
+C:\Users\yoga0\source\repos\WMA3ANOMVC\WMA3ANOMVC\obj\Debug\WMA3ANOMVC.vbproj.AssemblyReference.cache
+C:\Users\yoga0\source\repos\WMA3ANOMVC\WMA3ANOMVC\obj\Debug\WMA3ANOMVC.Form1.resources
+C:\Users\yoga0\source\repos\WMA3ANOMVC\WMA3ANOMVC\obj\Debug\WMA3ANOMVC.Resources.resources
+C:\Users\yoga0\source\repos\WMA3ANOMVC\WMA3ANOMVC\obj\Debug\WMA3ANOMVC.vbproj.GenerateResource.cache
+C:\Users\yoga0\source\repos\WMA3ANOMVC\WMA3ANOMVC\obj\Debug\WMA3ANOMVC.vbproj.CoreCompileInputs.cache
+C:\Users\yoga0\source\repos\WMA3ANOMVC\WMA3ANOMVC\obj\Debug\WMA3ANOMVC.exe
+C:\Users\yoga0\source\repos\WMA3ANOMVC\WMA3ANOMVC\obj\Debug\WMA3ANOMVC.xml
+C:\Users\yoga0\source\repos\WMA3ANOMVC\WMA3ANOMVC\obj\Debug\WMA3ANOMVC.pdb
+C:\Users\yoga0\source\repos\WMA3ANOMVC\WMA3ANOMVC\obj\Debug\WMA3ANOMVC.exe.config
+C:\Users\yoga0\source\repos\WMA3ANOMVC\WMA3ANOMVC\obj\Debug\WMA3ANOMVC.ButtonsTemplate.resources
+C:\Users\User\source\repos\WMA3ANOMVC\WMA3ANOMVC\WMA3ANOMVC\bin\Debug\WMA3ANOMVC.exe.config
+C:\Users\User\source\repos\WMA3ANOMVC\WMA3ANOMVC\WMA3ANOMVC\bin\Debug\WMA3ANOMVC.exe
+C:\Users\User\source\repos\WMA3ANOMVC\WMA3ANOMVC\WMA3ANOMVC\bin\Debug\WMA3ANOMVC.pdb
+C:\Users\User\source\repos\WMA3ANOMVC\WMA3ANOMVC\WMA3ANOMVC\bin\Debug\WMA3ANOMVC.xml
+C:\Users\User\source\repos\WMA3ANOMVC\WMA3ANOMVC\WMA3ANOMVC\obj\Debug\WMA3ANOMVC.vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\WMA3ANOMVC\WMA3ANOMVC\WMA3ANOMVC\obj\Debug\WMA3ANOMVC.exe.config
+C:\Users\User\source\repos\WMA3ANOMVC\WMA3ANOMVC\WMA3ANOMVC\obj\Debug\WMA3ANOMVC.ButtonsTemplate.resources
+C:\Users\User\source\repos\WMA3ANOMVC\WMA3ANOMVC\WMA3ANOMVC\obj\Debug\WMA3ANOMVC.Form1.resources
+C:\Users\User\source\repos\WMA3ANOMVC\WMA3ANOMVC\WMA3ANOMVC\obj\Debug\WMA3ANOMVC.Login.resources
+C:\Users\User\source\repos\WMA3ANOMVC\WMA3ANOMVC\WMA3ANOMVC\obj\Debug\WMA3ANOMVC.Resources.resources
+C:\Users\User\source\repos\WMA3ANOMVC\WMA3ANOMVC\WMA3ANOMVC\obj\Debug\WMA3ANOMVC.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\WMA3ANOMVC\WMA3ANOMVC\WMA3ANOMVC\obj\Debug\WMA3ANOMVC.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WMA3ANOMVC\WMA3ANOMVC\WMA3ANOMVC\obj\Debug\WMA3ANOMVC.exe
+C:\Users\User\source\repos\WMA3ANOMVC\WMA3ANOMVC\WMA3ANOMVC\obj\Debug\WMA3ANOMVC.xml
+C:\Users\User\source\repos\WMA3ANOMVC\WMA3ANOMVC\WMA3ANOMVC\obj\Debug\WMA3ANOMVC.pdb
+K:\WMA3ANOMVC (1)\WMA3ANOMVC\WMA3ANOMVC\WMA3ANOMVC\bin\Debug\WMA3ANOMVC.exe.config
+K:\WMA3ANOMVC (1)\WMA3ANOMVC\WMA3ANOMVC\WMA3ANOMVC\bin\Debug\WMA3ANOMVC.exe
+K:\WMA3ANOMVC (1)\WMA3ANOMVC\WMA3ANOMVC\WMA3ANOMVC\bin\Debug\WMA3ANOMVC.pdb
+K:\WMA3ANOMVC (1)\WMA3ANOMVC\WMA3ANOMVC\WMA3ANOMVC\bin\Debug\WMA3ANOMVC.xml
+K:\WMA3ANOMVC (1)\WMA3ANOMVC\WMA3ANOMVC\WMA3ANOMVC\obj\Debug\WMA3ANOMVC.vbproj.AssemblyReference.cache
+K:\WMA3ANOMVC (1)\WMA3ANOMVC\WMA3ANOMVC\WMA3ANOMVC\obj\Debug\WMA3ANOMVC.exe.config
+K:\WMA3ANOMVC (1)\WMA3ANOMVC\WMA3ANOMVC\WMA3ANOMVC\obj\Debug\WMA3ANOMVC.ButtonsTemplate.resources
+K:\WMA3ANOMVC (1)\WMA3ANOMVC\WMA3ANOMVC\WMA3ANOMVC\obj\Debug\WMA3ANOMVC.Form1.resources
+K:\WMA3ANOMVC (1)\WMA3ANOMVC\WMA3ANOMVC\WMA3ANOMVC\obj\Debug\WMA3ANOMVC.Login.resources
+K:\WMA3ANOMVC (1)\WMA3ANOMVC\WMA3ANOMVC\WMA3ANOMVC\obj\Debug\WMA3ANOMVC.Resources.resources
+K:\WMA3ANOMVC (1)\WMA3ANOMVC\WMA3ANOMVC\WMA3ANOMVC\obj\Debug\WMA3ANOMVC.vbproj.GenerateResource.cache
+K:\WMA3ANOMVC (1)\WMA3ANOMVC\WMA3ANOMVC\WMA3ANOMVC\obj\Debug\WMA3ANOMVC.vbproj.CoreCompileInputs.cache
+K:\WMA3ANOMVC (1)\WMA3ANOMVC\WMA3ANOMVC\WMA3ANOMVC\obj\Debug\WMA3ANOMVC.exe
+K:\WMA3ANOMVC (1)\WMA3ANOMVC\WMA3ANOMVC\WMA3ANOMVC\obj\Debug\WMA3ANOMVC.xml
+K:\WMA3ANOMVC (1)\WMA3ANOMVC\WMA3ANOMVC\WMA3ANOMVC\obj\Debug\WMA3ANOMVC.pdb

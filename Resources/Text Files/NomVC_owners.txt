@@ -1,0 +1,5 @@
+﻿0|Nam|20|Male|Burot, Tarlac City
+1|Sean|20|Male|Matatalaib
+2|Dj|79|Male|San Francisco
+3|Juspe|14|Female|San Roque
+4|Anjela|21|Female|San Rafael

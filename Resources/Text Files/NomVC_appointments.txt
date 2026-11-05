@@ -1,0 +1,7 @@
+11/24/2025|Nam|Thunder|Checkup|400
+11/25/2025|Sean|Jojo|Vaccine-Checkup|1500
+11/26/2025|Nam|Bonus|Vaccine|1000
+11/27/2025|Nam|Extra|Vaccine-Checkup|1500
+11/28/2025|Juspe|Bulaga|Vaccine|2000
+11/24/2025|Anjela|Ginger|Vaccine|1500
+11/29/2025|Nam|Cat|Checkup|500
